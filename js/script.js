@@ -20,3 +20,14 @@ form.addEventListener('submit', (e) => {
         content.innerHTML = pronto 
      }, 1000)
 }) 
+
+//vai pegar em tudo, está no escopo global do meu script
+// var nume = 'guilherme';
+// var idade = 28;
+// var idadeDouble = 28.90;
+// var bool = true;
+
+// if( nome === 'guilherme'){
+//     console.log(nume)
+// }
+

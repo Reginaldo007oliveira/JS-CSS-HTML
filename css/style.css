@@ -70,9 +70,40 @@ input{
 }
 
 .terceirasession{
-    background-color: #df1;
+    background-color: rgb(255, 17, 223);
+    display: flex;
+     flex-direction: row;
 }
 .containerterceira{
     border-color: #aabbcc !important;
-    border-top: 25px;
+    border: 5px;
+    display: flex;
+     flex-direction: row;
+}
+
+.interna{
+    background: #aa5632;
+    padding: 44px;
+}
+
+.laranja{
+ padding: 25px;
+ background-color: #f5b608;
+ border-radius: 33px;
+}
+.amarelo{
+    padding: 25px;
+    background-color: #fff241;
+}
+
+.verde{
+    padding: 25px;
+    background-color: #9dff94;
+    border-radius: 33px;
+}
+
+.rosa{
+    padding: 25px;
+    background-color: #ffa4d9;
+
 }
